@@ -1,6 +1,7 @@
 ## 🎙️ My Bio
 
-A philosophy-PhD turned developer, I am currently a Hitchhicker at 42 Prague. My projects are mostly in Python and C as part of 42's New Common Core with a focus on AI & LLM fluency, and data engineering. Integrating my background in philosophy of science in this work means thinking carefully about the systems and solutions I build, including a curious approach to the theoretical underpinnings of the solutions.
+A philosophy-PhD turned developer, I am currently a Hitchhicker at 42 Prague. My projects are mostly in Python and C as part of 42's New Common Core with a focus on AI & LLM fluency, and data engineering. My background in philosophy of science shapes how I approach systems and solutions; always from first principles, and with genuine curiosity about why things work the way they do.
+
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -16,7 +17,7 @@ Below is a list of the most recent projects I've been working on. Click through 
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| [Call-Me-Maybe](https://github.com/MoujanM/call_me_maybe) | Tool-use and structured output in LLMs; guiding model behaviour without fine-tuning | Python | 🛠️ in-progress |
+| [Call-Me-Maybe](https://github.com/MoujanM/call_me_maybe) | Tool-use and structured output in LLMs; guiding model behaviour without fine-tuning | Python | ✅ completed |
 | [Codexion](https://github.com/MoujanM/codexion) | Deadlock-free resource allocation across concurrent processes (dining philosophers) | C | ✅ completed |
 | [Fly-in](https://github.com/MoujanM/fly-in) | Multi-agent conflict-free pathfinding; graph visualization; OOP | Python | ✅ completed | 
 | [A-maze-ing](https://github.com/MoujanM/A-Maze-ing) | Team project; maze generator, solver & visualizer package | Python | ✅ completed |
