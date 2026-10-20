@@ -27,8 +27,3 @@ Below is a list of the most recent projects I've been working on. Click through 
 
 - Job opportunities in tech, remote or in Prague
 - Research and collaboration in tech/AI & society
-
-## 📬 Contact
-
-- 📍 Prague, Cz | 42 Prague
-- 📧 moujan.mir@gmail.com
